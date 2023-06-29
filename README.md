@@ -4,11 +4,11 @@
 </h1>
 
 
-Undergrad computer Engineering student
+Undergrad computer Engineering student 
 
 🔭 I’m currently learning Full-Stack Development.
 
-📫 How to reach me: http://www.linkedin.com/in/ira-mane
+📫 How to reach me: [linkedin](http://www.linkedin.com/in/ira-mane)
 
 
 ### :hammer_and_wrench: Languages and Tools :
