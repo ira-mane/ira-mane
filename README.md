@@ -11,7 +11,5 @@ Undergrad computer Engineering student
 📫 How to reach me: [linkedin](http://www.linkedin.com/in/ira-mane)
 
 
-### :hammer_and_wrench: Languages and Tools :
-#### ReactJs, JS,CSS, HTML, C++
 
 
