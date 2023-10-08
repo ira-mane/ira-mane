@@ -6,14 +6,28 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 </div>
 
-<h2>Undergrad Computer Engineering Student.</h2>
+<h2 align="center">
+I'm a Computer Engineering Student 💻, Web Developer 💻, and Designer 🎨!
+</h2> 
 
-🔭 I’m currently learning Full-Stack Development.
+I am also part of GDSC Core team of my college and I write in my free time.
+### 🤝 Connect with me:
 
-:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  
-📫 How to reach me: [linkedin](http://www.linkedin.com/in/ira-mane)
 
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- Hacktober Fest
+- AI/ML
+- An Hackathon Project
+
+## 🌱 I'm currently learning
+
+- Python Advanced
+- Ml Models
+- DSA
 
 
 
