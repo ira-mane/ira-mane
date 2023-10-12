@@ -32,5 +32,7 @@ I am also part of GDSC Core team of my college and I write in my free time.
 - ML and AI
 - DSA
 
+My Hacktober Badges :-
+[![An image of @iramane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iramane)](https://holopin.io/@iramane)]
 
 
