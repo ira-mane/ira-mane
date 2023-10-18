@@ -14,10 +14,8 @@ I'm a Computer Engineering Student 💻, Web Developer 💻, and Designer 🎨!
 I am also part of GDSC Core team of my college and I write in my free time.
   </h4>
   
-### 🤝 Connect with me:
- 🔗<a href="https://www.linkedin.com/in/ira-mane/">Linkedin</a>
+### 🤝 Connect with me:  🔗<a href="https://www.linkedin.com/in/ira-mane/">Linkedin</a>
 
-</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
