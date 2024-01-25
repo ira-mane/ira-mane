@@ -18,17 +18,4 @@ I am also part of GDSC Core team of my college and I write in my free time.
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
 
-- Hacktober Fest
-- AI/ML Project
-- An Hackathon Project
-
-## 🌱 I'm currently learning
-
-- Python Advanced
-- ML and AI
-- DSA
-
-My Hacktober Badges :-
-[![An image of @iramane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iramane)](https://holopin.io/@iramane)
